@@ -9,6 +9,8 @@ public class DatoveTypy {
 		//inicializacia premennej
 		cislo = 12;
 		
+		
+		
 		int x = 0;
 		int y = 1, z = 2;
 		
@@ -45,6 +47,9 @@ public class DatoveTypy {
 		
 		char uni = '\u0123';
 		System.out.println(uni);
+		
+		boolean prsi = true;//false
+		System.out.println();
 	}
 
 }
